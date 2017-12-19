@@ -20,19 +20,19 @@
           <a href="http://www.cdtl.nus.edu.sg/" target="_blank" rel="noopener noreferrer"><b>Centre for Development of Teaching and Learning (CDTL)</b></a> of NUS, for supporting us with several Teaching Enhancement Grants over the years.
         </li>
         <li>
-          <b>Learning Innovation Fund-Technology (LIF-T)</b> initiative of NUS, for funding us for the 2015-2018 period.
+          <a href="http://cit.nus.edu.sg/lift/" target="_blank" rel="noopener noreferrer"><b>Learning Innovation Fund-Technology (LIF-T)</b></a> initiative of NUS, for funding us for the 2015-2018 period.
         </li>
         <li>
-          <b>Google Summer of Code</b> Program, for including TEAMMATES as a mentor organization in GSoC2014, GSoC2015, GSoC2016, and and GSoC2017 editions.
+          <a href="https://developers.google.com/open-source/gsoc/" target="_blank" rel="noopener noreferrer"><b>Google Summer of Code</b></a> Program, for including TEAMMATES as a mentor organization in GSoC2014, GSoC2015, GSoC2016, and and GSoC2017 editions.
         </li>
         <li>
-          <b>Facebook Open Academy</b> Program, for including TEAMMATES as a mentor organization in FBOA 2016.
+          <a href="https://www.facebook.com/OpenAcademyProgram/" target="_blank" rel="noopener noreferrer"><b>Facebook Open Academy</b></a> Program, for including TEAMMATES as a mentor organization in FBOA 2016.
         </li>
         <li>
-          <b>Jet Brains</b>, for the <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">Intellij IDEA</a> licences.
+          <a href="https://www.jetbrains.com/" target="_blank" rel="noopener noreferrer"><b>Jet Brains</b></a>, for the <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">Intellij IDEA</a> licences.
         </li>
         <li>
-          <b>YourKit LLC</b>, for providing us with free licenses for the <a href="https://www.yourkit.com/java/profiler/" target="_blank" rel="noopener noreferrer">YourKit Java Profiler</a>
+          <a href="https://www.yourkit.com/" target="_blank" rel="noopener noreferrer"><b>YourKit LLC</b></a>, for providing us with free licenses for the <a href="https://www.yourkit.com/java/profiler/" target="_blank" rel="noopener noreferrer">YourKit Java Profiler</a>
           <img src="https://www.yourkit.com/images/yklogo.png" width='70'>.
         </li>
       </ul>
